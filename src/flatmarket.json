@@ -48,7 +48,7 @@
     "allowRememberMe": true,
     "billingAddress": true,
     "panelLabel": "Buy now {{amount}}/month",
-    "publishableKey": "pk_live_VUkXELSxfx7A7lxOfnrJ7lZ9",
+    "publishableKey": "pk_test_uwNyHPdculcp4BpsDg3yydhO",
     "shippingAddress": false
   }
 }
