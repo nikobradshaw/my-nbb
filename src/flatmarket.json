@@ -42,7 +42,7 @@
 	  }
   },
   "server": {
-    "host": "my-nbb.herokuapp.com"
+    "host": "my-nbb-test.herokuapp.com"
   },
   "stripe": {
     "allowRememberMe": true,
