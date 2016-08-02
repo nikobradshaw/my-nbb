@@ -10,7 +10,7 @@
       "images": [
         "images/pineapple.png"
       ],
-      "name": "EZ Rent to Own"
+      "name": "EZ Rent to Own",
 	  "plan": "ezrenttoown"
     },
     "002": {
@@ -19,7 +19,7 @@
       "images": [
         "images/banana.png"
       ],
-      "name": "Little Black Stiletto"
+      "name": "Little Black Stiletto",
 	  "plan": "littleblackstiletto"
     },
     "003": {
@@ -28,7 +28,7 @@
       "images": [
         "images/peach.png"
       ],
-      "name": "Overcranked Pictures"
+      "name": "Overcranked Pictures",
 	  "plan": "overcrankedpictures"
     },
     "004": {
@@ -37,7 +37,7 @@
       "images": [
         "images/cherry.png"
       ],
-      "name": "Greek God Fitness"
+      "name": "Greek God Fitness",
 	  "plan": "greekgodfitness"
 	  }
   },
